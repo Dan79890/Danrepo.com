@@ -1,0 +1,63 @@
+.game1 {
+    cursor: pointer;
+}
+.nba1 {
+    width: 300px;
+    border-radius: 10px;
+    display: block;
+}
+.thumbnail1 {
+    font-size: 15px;
+    font-weight: bold;
+    width: 300px;
+}
+.3dot {
+    font-weight: ;
+    padding-top: ;
+    height: ;
+    width: ;
+}
+.3dot:hover {
+    cursor: pointer;
+}
+.3dot:active {
+    text-shadow: black;
+}
+p {
+    font-family: Roboto;
+}
+.wrapper {
+    display: flex;
+    align-items: ;
+    justify-content: ;
+    min-height: ;
+}
+.label {
+    padding-right: 3px;
+    padding-bottom: 0px;
+    margin-top: 4px;
+}
+.circle {
+    position: relative;
+    background: rgb(87, 87, 80);
+    border-radius: 100%;
+    height: 15px;
+    width: 15px;
+    margin-top: 5px;
+}
+.nike {
+    position: absolute;
+    transform: rotate(45deg) translate(-60%, -50%);
+    left: 24%;
+    top: 50%;
+    height: 8px;
+    width: 3px;
+    border-bottom: 1.6px solid #fff;
+    border-right: 1.6px solid #fff;
+}
+.status1 {
+    font-size: 15px;
+    margin-top: 200px;
+    color: gray;
+    line-height: 20px;
+}
